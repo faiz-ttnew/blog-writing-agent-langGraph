@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+pydantic
+langgraph
+langchain-groq
+langchain-core
+langchain-community
+python-dotenv
