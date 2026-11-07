@@ -5,3 +5,4 @@ langchain-groq
 langchain-core
 langchain-community
 python-dotenv
+tavily-python
