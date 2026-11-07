@@ -6,3 +6,4 @@ langchain-core
 langchain-community
 python-dotenv
 tavily-python
+google-genai
